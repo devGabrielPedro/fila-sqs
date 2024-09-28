@@ -108,5 +108,5 @@ Produtor de Mensagens (SqsProducer)
 - Descrição: Isso indica que a mensagem foi enviada com sucesso para a fila SQS. O texto da mensagem enviada será exibido.
 Consumidor de Mensagens (SqsConsumer)
 
-![Recebimento de mensagens pelo SqsConsumer](https://github.com/devGabrielPedro/fila-sqs/blob/24dc95827daebb105fb9254f2faa635916e04d66/src/images/sqs-consumer.png)
+![Recebimento de mensagens pelo SqsConsumer](https://github.com/devGabrielPedro/fila-sqs/blob/99186fa659c884314a886d957496dc04ab413e95/src/images/sqs-consumer.png)
 - Descrição: Isso indica que o consumidor recebeu a mensagem da fila SQS. O corpo da mensagem recebida será exibido.
